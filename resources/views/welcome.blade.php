@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Coming Soon Master</div>
+				<div class="title">Coming Soon Master 2</div>
 				{{--<div class="quote">{{ Inspiring::quote() }}</div>--}}
 			</div>
 		</div>
