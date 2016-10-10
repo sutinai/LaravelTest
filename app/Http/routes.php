@@ -22,5 +22,5 @@ Route::controllers([
 ]);
 
 Route::get('/', function(){
-    return 'Hello Dev';
+    return 'Hello Dev2 ';
 }); 
